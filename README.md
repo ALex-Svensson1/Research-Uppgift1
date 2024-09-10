@@ -1,6 +1,8 @@
-# Research-Uppgift1
+# **Research-Uppgift1**
 
-Hello!
+### **Hello!**
+
+
+Because totodile is my favorite pokemon, you get a nice gif of him here
+
 ![totodile](totodile-pokemon.gif)
-
-My name is Alex!git
