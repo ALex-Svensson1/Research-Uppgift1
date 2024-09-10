@@ -4,5 +4,3 @@ Hello!
 
 
 My name is Alex!
-
-I am 19
