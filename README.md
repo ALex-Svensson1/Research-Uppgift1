@@ -1,3 +1,6 @@
 # Research-Uppgift1
 
-Hola!
+Hello!
+
+
+My name is Alex!
