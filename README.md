@@ -38,7 +38,7 @@
 
 **git switch [branch_name]** = used to switch wich branch you're on
 
-**git merge [branch_name]** = used to merge specified [branch_name] bracnh into your current branch
+**git merge [branch_name]** = used to merge specified [branch_name] branch into your current branch
 
 **git init** = used to initialize a repository
 
