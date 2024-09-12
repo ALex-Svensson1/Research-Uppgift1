@@ -1,6 +1,7 @@
 # **Research-Uppgift1**
 
-### **Some terminal commands I've learned during the lectures:**
+## **Some terminal commands I've learned during the lectures:**
+
 **ls** = used to print out the content of a directory
 
 **cd** = used to move between directories
@@ -15,7 +16,7 @@
 
 **ls -la** = used to see if there are any hidden directories
 
-### **Terminal commands I've learned on my own:**
+## **Terminal commands I've learned on my own:**
 
 **cp** = used  to copy a directory or file
 
@@ -25,7 +26,7 @@
 
 *[cp/rmdir/find_link](https://builtin.com/software-engineering-perspectives/terminal-commands)*
 
-### **Some Git commands I've learned during the lectures:**
+## **Some Git commands I've learned during the lectures:**
 
 **git add .** = used to add all changed files to the staging area
 
@@ -41,8 +42,7 @@
 
 **git init** = used to initialize a repository
 
-
-### **Some Git commads I've learned on my own:**
+## **Some Git commads I've learned on my own:**
 
 **git tag** = used to list all tags
 
@@ -54,23 +54,18 @@
 
 *[git reset_link](https://gist.github.com/cutiko/0b1615c63504a940877541362cc51211)*
 
-### **Something more I've learned about Github and Markdown:**
+## **Something more I've learned about Github and Markdown:**
 
-**Markdown:** I've learned about how to use diffrent headers and how to change the text to italic and bold. I've also learned how to change the color of a text. 
-<span style="color:yellow">Here is an example of a colored text.</span>
-
-Another thing I learned about markdown is how to make a table.
+**Markdown:** I've learned about how to use diffrent headers and how to change the text to italic and bold. Another thing I learned about markdown is how to make a table.
 
 |Here|is|an|example|of|a|table|
 |----|--|--|-------|--|-|-----|
 |I|find|this|school|course|very|interesting|
 |I|think|its|a|very|fun|subject|
 
-
-**Github:** I've learned how to change my default terminal from powershell to bash. I also learned how to add a picture/gif and how to add links in to projects.
+**Github:** I've learned how to change my default terminal from powershell to bash. I also learned how to add a picture/gif and how to add links in to projects. I also learned how you make a repository and invite people to work with you on it.
 
 *[Markdown_link](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)*
-
 
 *[Colored Text_link](https://stackoverflow.com/questions/35465557/how-to-apply-color-on-text-in-markdown)*
 
@@ -79,7 +74,6 @@ Another thing I learned about markdown is how to make a table.
 *[Picture/gif video_link](https://www.youtube.com/watch?v=jpeh1WorrWM)*
 
 *[Links_link](https://www.youtube.com/watch?v=gYoZ9QHM-uU)*
-
 
 ** **
 
