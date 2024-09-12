@@ -56,8 +56,7 @@
 
 ### **Something more I've learned about Github and Markdown:**
 
-**Markdown:** I've learned about how to use diffrent headers and how to change the text to italic and bold. I've also learned how to change the color of a text.
-<span style="color:yellow">Here is an example of different colored text</span>. I also learned how to make a table.
+**Markdown:** I've learned about how to use diffrent headers and how to change the text to italic and bold. I've also learned how to change the color of a text. I also learned how to make a table.
 
 |Here|is|an|example|of|a|table|
 |----|--|--|-------|--|-|-----|
@@ -67,6 +66,10 @@
 **Github:** I've learned how to change my default terminal from powershell to bash. I also learned how to add a picture/gif and how to add links in to projects.
 
 *[Markdown_link](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)*
+
+*[Colored Text_link](https://stackoverflow.com/questions/35465557/how-to-apply-color-on-text-in-markdown)*
+
+*[Table_link](https://www.markdownguide.org/extended-syntax/#highlight)*
 
 *[Picture/gif video_link](https://www.youtube.com/watch?v=jpeh1WorrWM)*
 
